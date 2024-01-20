@@ -5,6 +5,7 @@
 @media (min-width: 1025px) {
 
     body {
+        background-color: black;
         background-image: url(/src/image/background.jpg);
         background-repeat: no-repeat;
         background-size: cover;
